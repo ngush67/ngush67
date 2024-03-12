@@ -1,7 +1,7 @@
 Software Engineer | Backend
 ---------------------------
 
-Experienced software engineer with a focus on backend development, adept at crafting scalable, and efficient solutions. Proficient in designing, implementing, and optimizing backend systems. Committed to continuous learning and staying updated with the latest technologies in the field. Collaborative team player with excellent communication skills.
+Experienced software engineer with a focus on backend development. I craft scalable, and efficient solutions. Committed to continuous learning.
 
 ### Skills
 
