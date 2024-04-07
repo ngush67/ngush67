@@ -1,7 +1,7 @@
 Software Engineer | Backend
 ---------------------------
 
-Experienced software engineer with a focus on backend development. I craft scalable, and efficient solutions.
+Experienced software engineer with a focus on backend development.
 
 ### Skills
 
