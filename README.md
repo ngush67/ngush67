@@ -1,5 +1,5 @@
-<h3>GitHub Activity</h3>
+<b>My GitHub Stats</b>
 
-<a href="https://github.com/ngush67">
-  <img src="https://github-readme-streak-stats.demolab.com?user=ngush67&theme=transparent&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=888888&dates=888888" />
+<a href="http://www.github.com/ngush67">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngush67&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
